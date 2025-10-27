@@ -4,7 +4,7 @@ Este proyecto es una aplicación Android que permite **conectarse a un dispositi
 
 
 
-Principalmente para el control de un electroporador de pulsos voltaje de 700V a ns, sin carga de celda (img de probe prototipo v0.0)
+Principalmente para el control de un electroporador de pulsos voltaje de 700V a tiempo 50-500ns, sin celda de carga (img de probe prototipo v0.0)
 
 ![image](https://github.com/AngieSiles/NanoPulseBluetooth-main/blob/main/app/Img00.jpg)
 
@@ -92,7 +92,7 @@ bluetoothJhr2.Tx("P");
 ##  Uso
 
 1. Instala la aplicación en tu dispositivo Android.
-2. Activa el Bluetooth y empareja tu módulo **HC-05 / HC-06 / esp32**.
+2. Activa el Bluetooth y empareja tu módulo **esp32**.
 3. Abre la app:
 
    * Se listarán los dispositivos disponibles.
