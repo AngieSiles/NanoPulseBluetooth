@@ -4,7 +4,7 @@ Este proyecto es una aplicación Android que permite **conectarse a un dispositi
 
 
 
-Principalmente para el control de un electroporador de pulsos voltaje de 700V a ns, sin carga de celda (img de probe prototipo v0.0)
+Principalmente para el control de un electroporador de pulsos voltaje de 700V a tiempo 50-500ns, sin celda de carga (img de probe prototipo v0.0)
 
 ![image](app\Img01.jpg)
 ![image](app\Img00.jpg)
