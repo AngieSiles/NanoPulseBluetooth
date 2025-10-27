@@ -6,8 +6,8 @@ Este proyecto es una aplicación Android que permite **conectarse a un dispositi
 
 Principalmente para el control de un electroporador de pulsos voltaje de 700V a ns, sin carga de celda (img de probe prototipo v0.0)
 
-![image](app\Img01.jpg)
-![image](app\Img00.jpg)
+![image](https://github.com/AngieSiles/NanoPulseBluetooth-main/blob/main/app/Img01.jpg)
+![image](https://github.com/AngieSiles/NanoPulseBluetooth-main/blob/main/app/Img00.jpg)
 
 ##  Características principales
 
